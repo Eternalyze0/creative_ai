@@ -10,4 +10,4 @@ The LLM discriminator makes a judgement call: fake. And provides feedback on why
 
 The LLM generator then reads this critique and generates a new proof based on it for the LLM discriminator to evaluate.
 
-This loop of generation and critique creates long, productive thought processes, potentially allowing AI to be truly creative in any problem-solving domain (ie what is needed for progress on science, for example).
+This loop of generation and critique creates hours long, productive thought processes, potentially allowing AI to be truly creative in any problem-solving domain (ie what is needed for progress on science, for example).
