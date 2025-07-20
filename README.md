@@ -6,7 +6,7 @@ The LLM generator might generate a proof to an IMO math problem in 5 seconds.
 
 The LLM discriminator sees the proof and has to judge whether it is correct or incorrect (fortunately such data exists from humans).
 
-The LLM discriminator makes a judgement call: fake. And provides feedback on why such is the case.
+The LLM discriminator makes a judgement call: incorrect. And provides feedback on why such is the case (grading).
 
 The LLM generator then reads this critique and generates a new proof based on it for the LLM discriminator to evaluate.
 
